@@ -21,7 +21,7 @@ An advanced Deep Learning solution for agricultural diagnostic precision. This a
 
 1. Clone:
 ```bash
-git clone https://github.com/mstfyshrqawy520-alt/grape-leaves-classification.git
+git clone https://github.com/abdelkree5/grape-leaves-classification.git
 cd grape-leaves-classification
 ```
 
@@ -48,4 +48,4 @@ streamlit run ui.py
 ```
 
 ---
-Developed by **Mostafa Elsharqawi**
+Developed by **abdelkreem abdelhaleem frahat**
